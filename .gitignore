@@ -1,0 +1,16 @@
+
+# Archivos y directorios específicos para Pygame
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de entorno virtual (por ejemplo, para virtualenv o venv)
+venv/
+env/
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+.vscode/
+
+# Entorno virtual
+venv/
